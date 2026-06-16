@@ -1,0 +1,1 @@
+"# 🛒 E-Commerce Platform\n\nA full-stack e-commerce app with product catalog, cart, and checkout.\n\n## Setup\n1. cd client && npm install\n2. cd server && npm install\n3. Run backend: node server.js\n4. Run frontend: npm start" 

@@ -1,0 +1,1 @@
+"const express = require('express');\nconst { getProducts } = require('../controllers/productController');\nconst router = express.Router();\n\nrouter.get('/', getProducts);\n\nmodule.exports = router;" 
